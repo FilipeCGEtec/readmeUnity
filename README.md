@@ -59,15 +59,15 @@
 
 <P>   A primeira coisa a ser feita foram instalar assets externos através da loja de assets do próprio Unity. Logo em seguida foram baixadas diversas imagens para que sirvam de textura para materiais.</P>
 <P>   A cena começou a ser montada com um grande cubo como base, o skate importado, seguido por algumas rampas, barris e containers para trajetos. Os trajetos são: Um bloco com diversos containers para subir, uma pequena ponte com duas rampas, um loop  feito com diversas rampas agrupadas e um pequeno corredor com barris, uma grande rampa em format de funil</P>
-![Captura de Tela (7)](https://github.com/FilipeCGEtec/readmeUnity/assets/127852282/9c8a4864-41f6-4c60-af3a-f781174a4216)
-![Captura de Tela (8)](https://github.com/FilipeCGEtec/readmeUnity/assets/127852282/f14b77ee-72ad-478e-b40e-f1d15364c605)
-![Captura de Tela (9)](https://github.com/FilipeCGEtec/readmeUnity/assets/127852282/41674cc4-c27e-4d37-a9ae-57cda8bfc5d0)
-![Captura de Tela (10)](https://github.com/FilipeCGEtec/readmeUnity/assets/127852282/b43feb3f-f3fe-4d49-89b0-20cfe5494652)
-![Captura de Tela (11)](https://github.com/FilipeCGEtec/readmeUnity/assets/127852282/22949f0e-7625-4b08-b302-566aab07bdd4)
-![Captura de Tela (12)](https://github.com/FilipeCGEtec/readmeUnity/assets/127852282/27fd9195-3722-4381-b354-fa377fd77a6e)
-
-
 <P>   Finalmente, foram feitos os scripts para o skate e plataformas, seguido pela aplicação de materiais e a adição de alguns grafites.</P>
-
+<img src="https://github.com/FilipeCGEtec/readmeUnity/assets/127852282/9c8a4864-41f6-4c60-af3a-f781174a4216">
+<img src="https://github.com/FilipeCGEtec/readmeUnity/assets/127852282/f14b77ee-72ad-478e-b40e-f1d15364c605">
+<img src="https://github.com/FilipeCGEtec/readmeUnity/assets/127852282/41674cc4-c27e-4d37-a9ae-57cda8bfc5d0">
+<img src="https://github.com/FilipeCGEtec/readmeUnity/assets/127852282/b43feb3f-f3fe-4d49-89b0-20cfe5494652">
+<img src="https://github.com/FilipeCGEtec/readmeUnity/assets/127852282/22949f0e-7625-4b08-b302-566aab07bdd4">
+<img src="https://github.com/FilipeCGEtec/readmeUnity/assets/127852282/27fd9195-3722-4381-b354-fa377fd77a6e">
+<img src="https://github.com/FilipeCGEtec/readmeUnity/assets/127852282/16edb293-9afa-45ad-8c79-082d41fa6e4a">
+<img src="https://github.com/FilipeCGEtec/readmeUnity/assets/127852282/911de527-c5a1-4f12-bc81-d083644fad0">
 # Onde acessar:
+
   <p> Você pode acessar a pasta do Google drive do projeto clicando <a href="https://drive.google.com/drive/u/0/folders/1sHKxyeKL0Bc2_k_Pb2iH4mJZtojDq1YE">AQUI</a></p>
