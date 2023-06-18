@@ -56,9 +56,9 @@
 
 # Desenvolvimento:
 
-<P>A primeira coisa a ser feita foram instalar assets externos através da loja de assets do próprio Unity. Logo em seguida foram baixadas diversas imagens para que sirvam de textura para materiais.</P>
-<P>A cena começou a ser montada com um grande cubo como base, o skate importado, seguido por algumas rampas, barris e containers para trajetos. Os trajetos são: Um bloco com diversos containers para subir, uma pequena ponte com duas rampas, um loop  feito com diversas rampas agrupadas e um pequeno corredor com barris</P>
-<P>Finalmente, foram feitos os scripts para o skate e plataformas, seguido pela aplicação de materiais e a adição de alguns grafites.</P>
+<P>   A primeira coisa a ser feita foram instalar assets externos através da loja de assets do próprio Unity. Logo em seguida foram baixadas diversas imagens para que sirvam de textura para materiais.</P>
+<P>   A cena começou a ser montada com um grande cubo como base, o skate importado, seguido por algumas rampas, barris e containers para trajetos. Os trajetos são: Um bloco com diversos containers para subir, uma pequena ponte com duas rampas, um loop  feito com diversas rampas agrupadas e um pequeno corredor com barris</P>
+<P>   Finalmente, foram feitos os scripts para o skate e plataformas, seguido pela aplicação de materiais e a adição de alguns grafites.</P>
 
 # Onde acessar:
   <p> Você pode acessar a pasta do Google drive do projeto clicando <a href="https://drive.google.com/drive/u/0/folders/1sHKxyeKL0Bc2_k_Pb2iH4mJZtojDq1YE">AQUI</a></p>
