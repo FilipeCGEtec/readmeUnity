@@ -51,6 +51,7 @@
       - `O`:  Faz a manobra "Mortal"
       - `U`:  Faz a manobra "Flip"
    - `M`:  Volta o skate para posição inicial
+   - `N`:  Volta para o angulo inicial
 
 # Técnologias Utilizadas:
   <P>Todos os scripts do projeto foram feitos utilizando a linguagem C#</P>
