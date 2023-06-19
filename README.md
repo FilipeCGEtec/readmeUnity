@@ -22,7 +22,7 @@
 
 # Funcionalidades
   - `Movimentação`: O skate pode se mover para frente e para trás, alem de poder se mover lateralmente quando se rotaciona. Algumas plataformas tambem se movem constantemente na cena.
-  - `Colisão`: O skate tem uma caixa de colisão" adicionada através do elemento "rigidbody" do proprio Unity.
+  - `Colisão`: O skate tem uma caixa de colisão" adicionada através do elemento "Boxcolider" do proprio Unity.
   - `Pulos`: O pulo é similar a movimentação basica, mas é limitado pelo tempo real, não por frames pos segundo (mais informações em ).
     - `Manobras`: As manobras são rotações que o skate faz quando está pulando.
 
